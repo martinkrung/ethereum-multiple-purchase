@@ -1,7 +1,7 @@
 #!/bin/sh
 top=9
 btcperwallet=0.01
-domain=mydomain.ch
+domain=mydomain.com
 rm paybtc.sh
 rm finalize.sh
 rm pw.txt
