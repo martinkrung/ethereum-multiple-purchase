@@ -14,7 +14,7 @@ Requirement
 
 WARNING
 ------------
- After the point you payed some btc to the intermediate address NEVER rerun the script in the same folder. IT WILL CLEAN UP EVERYTHING ITS GENERATES!! YOU WILL LOSE YOUR WALLET OR YOUR PASSWORDS!!
+ After the point you payed some btc to the intermediate address NEVER rerun the script in the same folder. IT WILL CLEAN UP EVERYTHING ITS GENERATES!! YOU WILL LOSE NOT YOUR WALLET BUT YOUR PASSWORDS!!
  
  Move out the generated files (paybtc.sh, finalize.sh, pw.txt, list.sh) and generated folders. 
 
