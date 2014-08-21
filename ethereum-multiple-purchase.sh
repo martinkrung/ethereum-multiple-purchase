@@ -1,12 +1,13 @@
 #!/bin/sh
-top=9
+start=1
+stop=9
 btcperwallet=0.01
 domain=mydomain.com
 rm paybtc.sh
 rm finalize.sh
 rm pw.txt
 rm list.sh
-for i in $(seq -f "%03g" 1 $top)
+for i in $(seq -f "%03g" $start $stop)
 do
     rm -rfv $i
     echo $i
