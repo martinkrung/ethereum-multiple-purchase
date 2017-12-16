@@ -31,8 +31,6 @@ Usage
 Donate
 ------
 
-* Bitcoin payments: 19RKBsSLbaPFdmMwsQhsBKrZdiprpt4fE
-
 License
 -------
 
